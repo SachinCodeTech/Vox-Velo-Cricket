@@ -1,0 +1,6 @@
+{
+  "name": "VoxVelo",
+  "description": "Cricket bowling speed measurement, pitch analysis, and performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
